@@ -1,2 +1,2 @@
 # Remake-of-Flappy-Bird
-This is the Remake of Flappy Bird Game by TheProgrammingRad. 
+Hi Everyone, In this repository you can get the remake of Flappy Bird made by TheProgrammingRad.  
